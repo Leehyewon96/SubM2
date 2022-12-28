@@ -1,0 +1,10 @@
+{
+    "ROOT_FileName": "test1.json",
+    "FLOWLIST": [
+        {
+            "FLOW_FlowMaxTime": 500,
+            "FLOW_isSimulateLoop": false,
+            "OBJECTLIST": []
+        }
+    ]
+}
